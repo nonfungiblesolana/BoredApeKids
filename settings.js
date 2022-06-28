@@ -17,7 +17,7 @@ const collectionInfo = {
     },
     background: {
         type: "image",              // Supported types: image, video, color
-        image: "background.png",    // Image for image type, video preview for video type
+        image: "background.jpg",    // Image for image type, video preview for video type
         video: "background.mp4",    // If you don't use video, you can ignore this line
         color: "#FFF",           // If you don't use color, you can ignore this line
     }
